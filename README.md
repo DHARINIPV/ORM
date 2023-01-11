@@ -43,6 +43,7 @@ admin.site.register(Employee,EmployeeAdmin)
 ```
 
 ## OUTPUT
+![image](https://user-images.githubusercontent.com/119400845/211870247-41b87bd6-9934-4dc1-90cb-d1124b4b987c.png)
 
 ## RESULT
 program excuted successfully.
